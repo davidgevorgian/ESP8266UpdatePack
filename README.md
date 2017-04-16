@@ -9,5 +9,6 @@ ESP8266 WIFI, Sketch Flash and SPIFFS update by one pack file
 ![Structer](screenshot1.png)
 
 
-3.	Click Pack for make package.
-4.	
+3.	Click [Pack] for make package.
+4.	Goto ESP8266 URL ex:.[192.168.3.10/pkgupdate], choose package created in step 3, then UPDATE.
+---
