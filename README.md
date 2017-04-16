@@ -1,5 +1,5 @@
 # ESP8266UpdatePack
-ESP8266 WIFI, Sketch Flash and SPIFFS update single pack file
+ESP8266 WIFI, Sketch Flash and SPIFFS update by single pack file
 
 ### How to?
 1.	Create Sketch bin file. [Arduino IDE: menu>Sketch>Export compiled Binary]<br>
