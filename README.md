@@ -6,9 +6,8 @@ ESP8266 WIFI, Sketch Flash and SPIFFS update by single pack file
 		this create .bin file in Sketch directory
 2.	Run Package Maker, then add files for new package (see picture)
 
-version 1.1
 ![Structer](screenshot1.png)
-version 2.0
+
 ![Structer](screenshot20.png)
 
 
